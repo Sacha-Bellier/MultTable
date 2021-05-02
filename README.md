@@ -2,7 +2,7 @@
 # MultTable
 
 ## Short term goals
-Same result as the python script presented in this littlt article (made by Sébastien Dumortier) : 
+Same result as the python script presented in this littlt article (made by Sébastien Dumortier) : https://apmep-toulouse.eu/la-beaute-des-mathematiques-se-cache-sous-la-table/
 
 It determine all different paterns of the multiplication tables for number of modulo m form 0 to a specified number. 
 
